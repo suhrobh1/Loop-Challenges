@@ -21,6 +21,12 @@ for (let i = 0; i < 6; i++){
     console.log(num);
     num -= 1.5;
 }
+console.log("***************  3.1  ***************");
+for (let i = 4; i > -4; i-=1.5){
+    console.log(i);
+    
+}
+
 
 console.log("***************  4  ***************");
 
